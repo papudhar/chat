@@ -1,0 +1,164 @@
+.shadow {
+  box-shadow: 0 2px 15px rgb(0 0 0 / 68%);
+}
+
+/* Chat List */
+.ce-wrapper {
+  background-color: #e8eaea !important;
+}
+
+.ce-chats-container {
+  background-color: #e8eaea !important;
+  border-radius: 0px !important;
+}
+
+.ce-chat-form-container {
+  background-color: #e8eaea !important;
+  color: #000000;
+}
+
+.ce-chat-card {
+  margin: 0px 6px !important;
+}
+
+.ce-chat-card-loading-bar {
+  background-color: #535a6d !important;
+}
+
+.ce-active-chat-card {
+  background-color: #19abff !important;
+}
+
+.ce-chat-title-text {
+  color: #000000 !important;
+}
+
+.ce-chat-subtitle-text {
+  color: #4f4f4f9c !important;
+}
+
+.ce-chat-unread-dot {
+  background-color: white !important;
+}
+
+/* Chat Feed */
+
+.ce-chat-title-container {
+  background-color: #e8eaea !important;
+  border-radius: 0px !important;
+}
+
+.ce-chat-feed-container {
+  background-color: #e8eaea !important;
+}
+
+.ce-primary-button {
+  background-color: #51a1c4 !important;
+}
+
+.ce-message-date-text {
+  color: #4f4f4f9c !important;
+}
+
+.ce-my-message-bubble {
+  background-color: #19abff !important;
+}
+
+.ce-my-message-sinding-bubble {
+  background-color: #938ffe !important;
+}
+
+.ce-my-message-timestamp {
+  color: #51a1c4 !important;
+}
+
+.ce-their-message-timestamp {
+  color: #4f4f4f9c !important;
+}
+
+#ce-send-message-button {
+  background-color: #51a1c4 !important;
+}
+
+#ce-ice-breaker-gif {
+  max-width: 115px !important;
+  margin-top: 30px !important;
+}
+
+.ce-social-message-form {
+  background-color: #e8eaea !important;
+}
+
+.ce-message-input-form {
+  padding-bottom: 10px !important;
+}
+
+#msg-textarea {
+  width: calc(100% - 140px) !important;
+  position: relative !important;
+  top: 4px !important;
+  border-width: 0px !important;
+  background-color: #e8eaea !important;
+  color: #000000 !important;
+}
+#msg-textarea::placeholder {
+  color: #4f4f4f9c !important;
+}
+
+#ce-upload-document-icon {
+  color: #000000 !important;
+}
+
+.ce-feed-container-bottom {
+  height: "44px";
+}
+
+.ce-message-images-row {
+  background-color: #e8eaea !important;
+}
+
+.ce-their-message-sender {
+  color: #4f4f4f9c !important;
+}
+
+.ce-their-message-bubble {
+  background-color: #535a6d !important;
+  color: rgba(255, 255, 255, 0.705) !important;
+}
+
+/* Chat Settings */
+
+.ce-settings {
+  background-color: #e8eaea !important;
+  border-radius: 0px !important;
+}
+
+.ce-chat-title-form .ce-text-input {
+  background-color: #e8eaea;
+  color: #000000;
+}
+
+.ce-section-title-container {
+  background-color: #e8eaea !important;
+  color: #000000;
+}
+
+#ce-options-drop-down {
+  background-color: #e8eaea !important;
+  color: #000000;
+}
+
+.ce-person-text {
+  color:#4f4f4f9c;
+}
+
+.ce-danger-button {
+  background-color: #e8eaea !important;
+  border: 1px solid #51a1c4 !important;
+  color: #51a1c4 !important;
+}
+
+.ce-autocomplete-close {
+  background-color: #000000 !important;
+  border-radius: 0px !important;
+}
